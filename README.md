@@ -27,7 +27,9 @@ HAN-SGN route, customer behavior books close to the flight date => Due to the na
 HAN-CXR route, passenger behavior of booking far from the flight date which depart on Thursday or Friday and return on Sunday or Monday  => Due to the nature of the HAN-CXR route, mainly tourists tend to plan to travel and book tickets far from the flight date and they usually choose to travel on weekend since they have to work on weekday
 
 Specialy, on national holiday 30/04-01/05/2022:
+
 ![image](https://github.com/linh280999/EXCEL_Operation_Report/assets/144362005/3f666755-a01a-4fa5-b067-4987f7bfefe9)
+
 Route HAN-CXR: Passengers tend to depart from Hanoi on 29,30APR2022 and return on 03MAY2022 while route HAN-SGN route is not affected by the holidays
 ## Recommendation:
 Adjust the prices of early morning and late night flights so that the prices are lower than mid-day flights to attract customers to fill flights.
