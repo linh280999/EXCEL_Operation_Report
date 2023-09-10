@@ -7,8 +7,8 @@ Using excel to perform daily operation report
 # Introduction
 ## 1. Business Context
 In the operations of airline A - The manager wants to monitor the load factor of each flights on report date 31MAR2023 for the flight in the period of 31MAR2023-30JUN2023 to determine customer behavior then have a prompt price adjustment
-Load factor: is a metric used in the airline industry that measures the percentage of available seating capacity that has been filled with passengers, a high load factor indicates that an
-airline has sold most of its available seats and is preferred over a low load factor
+
+Load factor: is a metric used in the airline industry that measures the percentage of available seating capacity that has been filled with passengers, a high load factor indicates that an airline has sold most of its available seats and is preferred over a low load factor
 ## 2. Dataset
 Extract from internal passenger service system
 # Process
