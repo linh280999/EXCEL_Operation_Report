@@ -12,10 +12,14 @@ Load factor: is a metric used in the airline industry that measures the percenta
 ## 2. Dataset
 Extract from internal passenger service system
 # Process
-Extract data from internal passenger service system for requested date
+Extract data from internal passenger service system for requested report date
+
 Use formula functions to calculate and add necessary data fields
+
 Build report
+
 ![image](https://github.com/linh280999/EXCEL_Operation_Report/assets/144362005/97c94d08-1cf4-48b7-84de-9f2f28c83afc)
+
 # Insight & Recommendation
 ## Insight:
 Early morning and late night flights will be less popular than mid-day flights
