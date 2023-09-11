@@ -28,9 +28,9 @@ Early morning and late night flights will be less popular than mid-day flights
 
 Comparing between the two routes Hanoi to Ho Chi Minh city and Hanoi to Nha Trang, we can see the following customer behavior:
 
-HAN-SGN route, customer tend to book close to the flight date => Due to the nature of the HAN-SGN route, it is a business traveler
+HAN-SGN route, customer tend to book close to the flight date => Due to the majority of passenger is business traveler
 
-HAN-CXR route, passenger tend to book far from the flight date which depart on Thursday or Friday and return on Sunday or Monday  => Due to the nature of the HAN-CXR route, mainly tourists tend to plan to travel and book tickets far from the flight date and they usually choose to travel on weekend since they have to work on weekday
+HAN-CXR route, passenger tend to book far from the flight date which depart on Thursday or Friday and return on Sunday or Monday  => The majority of passenger is tourists, that tend to plan to travel and book tickets far from the flight date and they usually choose to travel on weekend since they have to work on weekday
 
 Specialy, on national holiday 30/04-01/05/2022:
 
