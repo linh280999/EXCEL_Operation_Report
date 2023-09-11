@@ -36,10 +36,10 @@ Specialy, on national holiday 30/04-01/05/2022:
 
 ![image](https://github.com/linh280999/EXCEL_Operation_Report/assets/144362005/3f666755-a01a-4fa5-b067-4987f7bfefe9)
 
-Route HAN-CXR: Passengers tend to depart from Hanoi on 29,30APR2022 and return on 03MAY2022 while route HAN-SGN route is not affected by the holidays
+Route HAN-CXR: Passengers tend to depart from Hanoi on 29,30APR2022 and return on 03MAY2022 while route HAN-SGN route is not affected by the holiday
 ## Recommendation:
 Adjust the prices of early morning and late night flights so that the prices are lower than mid-day flights to attract customers to fill flights.
 
-Increase prices for the Hanoi-Nha Trang segment on 29APR and 30APR and Nha Trang - Hanoi segment on 3MAY
+Increase prices for the Hanoi-Nha Trang segment on 29APR and 30APR and Nha Trang - Hanoi segment on 3MAY due to high demand to optimize revenue
 
 While decrease prices or implement stimulus program for the Nha-Trang-Ha Noi segment on 29APR and 30APR and Hanoi-Nha Trang segment on 3MAY because of the low demand
