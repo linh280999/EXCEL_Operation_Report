@@ -13,7 +13,7 @@ Load factor: is a metric used in the airline industry that measures the percenta
 Extract from internal passenger service system
 # Process
 
-* Extract data from internal passenger service system for requested report date
+* Extract data from internal passenger service system for requested report date and flight date
 
 * Use formula functions to calculate and add necessary data fields
 
